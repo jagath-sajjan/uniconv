@@ -66,6 +66,6 @@ class funb {
         System.out.println("The Area Of Square: " + side * side);
     }
     void ReA (double l, double w) {
-        System.out.println("The Aera Of Rectangle: " + l * w);
+        System.out.println("The Area Of Rectangle: " + l * w);
     }
 }
