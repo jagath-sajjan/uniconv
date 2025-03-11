@@ -8,5 +8,5 @@ IF %ERRORLEVEL% NEQ 0 (
     echo Compilation failed!
 ) ELSE (
     echo Compilation successful!
-    echo Run the tool using: java Main
+    echo Run the tool using: java AreaTool
 )
