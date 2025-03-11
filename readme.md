@@ -15,7 +15,7 @@ A simple command-line tool to calculate the area of various shapes including Cir
 
 2. **Navigate to the directory containing `AreaTool.java`**:
    ```bash
-   cd uniconv
+   cd uniconv/src
    ```
 
 3. **Run the build script**:
