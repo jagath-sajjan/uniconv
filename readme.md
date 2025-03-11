@@ -22,6 +22,7 @@ A simple command-line tool to calculate the area of various shapes including Cir
 
 ### For Linux/macOS
 ```bash
+chmod +x build.sh
 ./build.sh
 ```
 
